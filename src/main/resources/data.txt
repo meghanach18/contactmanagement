@@ -1,0 +1,5 @@
+1 aaa male kerala yes java 90 
+2 bbb female punjab yes react 80 
+3 ccc male gene yes .net 70   
+4 eeee female gjsksh yes java 60 
+5 ffff male edhj yes .net 50 
